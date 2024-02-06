@@ -85,7 +85,7 @@ flex-wrap: wrap;
 
 .img{
     margin-top: -75%;
-    margin-left: 13%;
+    margin-left: 27%;
 
 }
 
@@ -177,5 +177,88 @@ footer{
     .p-foot{
         font-size:20px ;
         margin-top: 130px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:425px ) {
+
+    .navbar{
+        width: 190%;
+
+    }
+
+}
+
+@media screen and (max-width:425px ) {
+
+    .main-container {
+        height: 900px;
+        width: 190%;
+
+    }
+
+
+    .img{
+        width: 10px;
+        margin-top: -110%;
+        margin-left: 2%;
+        
+        
+        
+    }
+
+}
+
+
+
+
+@media screen and (max-width:425px ) {
+
+    .parents-three-container{
+
+        margin-top: -70%;
+        justify-content: right;
+        margin-left: 50%;
+
+    }
+
+    .left-container{
+        j
+    }
+
+
+}
+
+
+
+
+
+@media screen and (max-width:425px ) {
+
+    footer{
+        width: 190%;
+        margin-top: 30%;
+     
+    
     }
 }
